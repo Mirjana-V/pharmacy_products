@@ -1,0 +1,31 @@
+.navbar {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(207, 201, 195);
+    width: 20rem;
+    height: 100vh;
+    position: fixed; 
+    top: 0;
+    left: 0; 
+    padding-top: 20px;
+}
+    
+.navbar ul li {
+    list-style: none;
+    padding: 1rem;
+}
+    
+.navbar ul li a {
+    color: rgb(37, 34, 31);
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+      
+.navbar ul li a:hover {
+    color: rgb(105, 97, 89);
+}
+    
+.main-content {
+    margin-left: 20rem;
+    padding: 2rem;
+}

@@ -1,0 +1,23 @@
+.list {
+    list-style: none;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 40%;
+}
+
+.button {
+    font: inherit;
+    padding: 5px;
+    border-radius: 4px;
+    background-color: rgb(207, 201, 195);
+    color: rgb(37, 34, 31);
+    border: none;
+}
+
+.actions {
+    display: flex;
+    gap: 1rem;
+    padding: 10px;
+}

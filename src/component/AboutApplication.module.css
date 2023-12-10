@@ -1,0 +1,14 @@
+.container {
+    margin:0 auto;
+    width: 50%;
+    border: 1.5px solid black;
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px;
+
+}
+
+.container span {
+    text-transform: uppercase;
+    font-weight: 600;
+}
